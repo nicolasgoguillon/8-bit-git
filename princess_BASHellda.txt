@@ -1,0 +1,46 @@
+              /__`.
+               / \ `\\
+              /_G_\  `\
+             /\   /\   \
+            /_I_\/T_\  /\
+            (((( ))))
+           (((' . ')))
+           (((\_-_/)))
+           (((_) (_)))
+          /((( \ / )))\
+         / (((  ^  ))) \
+        / / ((  ^  )) \ \
+       ( (   \  ^  /   ) )
+        \ \   )www(   / /
+         `\\ /     \ //'
+           /'       `\
+          /           \
+         /             \
+        /               \
+       /                 \
+      /                   \
+     /                     \
+    /                       \
+   /                         \
+  /                           \ jgs
+ |                             |
+  `-----......_____......-----'
+
+"The Princess, BASHellda"
+
+Note in her pocket: 
+- Use the "rm" sword to remove BSOD!
+- Also, rm the fake "save_me.txt" I didn't write and "cursed_dungeon.zip" (bad juju)
+- Here's a very important step, type the following git commands to make sure things are updated
+
+git add .
+
+Then
+
+git commit -am "defeated BSOD"
+
+This will ensure that those changes are applied
+
+- Next, you'll want to checkout the master branch again and merge cursed_dungeon to bring me back to the master.
+- I hope you've committed all of the git commands to memory already!
+
